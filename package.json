@@ -1,0 +1,12 @@
+{
+  "name": "athelper-wechaty-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "wechaty": "^0.9.5"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
